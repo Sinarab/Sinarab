@@ -3,7 +3,7 @@
   <br>
   👩🏻‍🔬 A lost mechanical engineer having some fun coding.
   <br>
-  📚 I’m currently learning Elixir, SQL, Docker.
+  📚 I’m currently learning Elixir, Threejs, Docker.
   <br>
   💻  I’m working at Audo 💖
   <br>
